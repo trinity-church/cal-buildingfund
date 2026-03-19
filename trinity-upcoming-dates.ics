@@ -3,6 +3,8 @@ VERSION:2.0
 PRODID:-//Trinity Church//Upcoming Dates//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+X-WR-CALNAME:Trinity Church Dates
+X-WR-CALDESC:Lives & Legacies Building Fund Campaign — thetrinitychurch.com
 BEGIN:VEVENT
 UID:trinity-ud-0@thetrinitychurch.com
 DTSTART;VALUE=DATE:20260314
