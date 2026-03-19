@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Trinity Church//Upcoming Dates//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:trinity-ud-0@thetrinitychurch.com
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260316
+SUMMARY:Trinity Church Scottsdale - New Building Fund Launch Weekend
+LOCATION:Trinity Church\, 8620 E McDonald Dr\, Scottsdale AZ 85250
+DESCRIPTION:Pastor Mark preaches at all services and shares the vision for the Lives and Legacies Building Fund Campaign.\nSat: 12:30 / 2:30 / 4:30 PM\nSun: 8:30 / 10:10 / 11:50 AM\nTrinity Church | 8620 E McDonald Dr\, Scottsdale AZ 85250\nthetrinitychurch.com
+END:VEVENT
+BEGIN:VEVENT
+UID:trinity-ud-1@thetrinitychurch.com
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260319
+SUMMARY:Pastor Mark live at Real Men on Tuesday and Wednesday
+LOCATION:Trinity Church\, 8620 E McDonald Dr\, Scottsdale AZ 85250
+DESCRIPTION:Pastor Mark shares the Lives & Legacies campaign vision at Real Men.\nTue & Wed at 6:30 PM\nTrinity Church | 8620 E McDonald Dr\, Scottsdale AZ 85250\nthetrinitychurch.com
+END:VEVENT
+BEGIN:VEVENT
+UID:trinity-ud-2@thetrinitychurch.com
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260323
+SUMMARY:Trinity Church Scottsdale - Exodus Sermon + Building Campaign Update
+LOCATION:Trinity Church\, 8620 E McDonald Dr\, Scottsdale AZ 85250
+DESCRIPTION:Pastor Mark preaching or hosting at every service.\nSat: 12:30 / 2:30 / 4:30 PM\nSun: 8:30 / 10:10 / 11:50 AM\nTrinity Church | 8620 E McDonald Dr\, Scottsdale AZ 85250\nthetrinitychurch.com
+END:VEVENT
+BEGIN:VEVENT
+UID:trinity-ud-3@thetrinitychurch.com
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260326
+SUMMARY:Pastor Mark live at Real Men on Tuesday and Wednesday
+LOCATION:Trinity Church\, 8620 E McDonald Dr\, Scottsdale AZ 85250
+DESCRIPTION:Pastor Mark wraps up the "American Apocalypse" sermon and shares the updates about the new building campaign\, Live at Real Men.\nTue & Wed at 6:30 PM\nTrinity Church | 8620 E McDonald Dr\, Scottsdale AZ 85250\nthetrinitychurch.com
+END:VEVENT
+BEGIN:VEVENT
+UID:trinity-ud-4@thetrinitychurch.com
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260330
+SUMMARY:Trinity Church Scottsdale - Exodus Sermon + Building Campaign Update
+LOCATION:Trinity Church\, 8620 E McDonald Dr\, Scottsdale AZ 85250
+DESCRIPTION:Pastor Mark preaching or hosting at every service.\nSat: 12:30 / 2:30 / 4:30 PM\nSun: 8:30 / 10:10 / 11:50 AM\nTrinity Church | 8620 E McDonald Dr\, Scottsdale AZ 85250\nthetrinitychurch.com
+END:VEVENT
+BEGIN:VEVENT
+UID:trinity-ud-5@thetrinitychurch.com
+DTSTART;TZID=America/Phoenix:20260331T183000
+DTEND;TZID=America/Phoenix:20260331T210000
+SUMMARY:Trinity Church Sacred Assembly - All Men. All In.
+LOCATION:10001 N 92nd St\, Scottsdale AZ 85258
+DESCRIPTION:CALLING ALL MEN — Sacred Assembly at the new church building.\nBring your sons and grandsons.\nTuesday\, March 31 at 6:30 PM\nLives & Legacies Building Fund Campaign\n10001 N 92nd St\, Scottsdale AZ 85258\nthetrinitychurch.com
+END:VEVENT
+BEGIN:VEVENT
+UID:trinity-ud-6@thetrinitychurch.com
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260406
+SUMMARY:Easter at Trinity Church
+LOCATION:Trinity Church\, 8620 E McDonald Dr\, Scottsdale AZ 85250
+DESCRIPTION:Easter 2026 at Trinity Church — 8 services.\nPastor Mark preaching or hosting at every service.\nSat: 12:30 / 2:00 / 3:30 / 5:00 PM\nSun: 8:00 / 9:30 / 11:00 AM / 12:30 PM\nPlus a preview of what is coming on Premiere Weekend.\nTrinity Church | 8620 E McDonald Dr\, Scottsdale AZ 85250\nthetrinitychurch.com
+END:VEVENT
+BEGIN:VEVENT
+UID:trinity-ud-7@thetrinitychurch.com
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260413
+SUMMARY:Trinity Church New Building Premiere Weekend + Open House
+LOCATION:Trinity Church\, 8620 E McDonald Dr\, Scottsdale AZ 85250
+DESCRIPTION:JOIN US FOR THE MOST IMPORTANT MOMENT IN TRINITY CHURCH HISTORY.\nPastor Mark preaching or hosting at every service.\nSat: 2:00 / 4:00 PM\nSun: 8:30 / 10:10 / 11:50 AM\nOpen house tours at the new building after every service.\nTrinity Church | 8620 E McDonald Dr\, Scottsdale AZ 85250\nthetrinitychurch.com
+END:VEVENT
+BEGIN:VEVENT
+UID:trinity-ud-8@thetrinitychurch.com
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260420
+SUMMARY:Trinity Church Scottsdale - Exodus Sermon + New Building Open House
+LOCATION:Trinity Church\, 8620 E McDonald Dr\, Scottsdale AZ 85250
+DESCRIPTION:Pastor Mark preaching or hosting at every service.\nSat: 2:00 / 4:00 PM\nSun: 8:30 / 10:10 / 11:50 AM\nOpen house tours at the new building after every service.\nTrinity Church | 8620 E McDonald Dr\, Scottsdale AZ 85250\nthetrinitychurch.com
+END:VEVENT
+BEGIN:VEVENT
+UID:trinity-ud-9@thetrinitychurch.com
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260427
+SUMMARY:Trinity Church Commitment Weekend: Bring 2-Year Pledge and Initial Gift
+LOCATION:Trinity Church\, 8620 E McDonald Dr\, Scottsdale AZ 85250
+DESCRIPTION:Lives & Legacies Building Fund Campaign — Commitment Weekend #1.\nPastor Mark preaching or hosting at every service.\nBring your gift and pledge.\nSat: 2:00 / 4:00 PM\nSun: 8:30 / 10:10 / 11:50 AM\nTrinity Church | 8620 E McDonald Dr\, Scottsdale AZ 85250\nthetrinitychurch.com
+END:VEVENT
+BEGIN:VEVENT
+UID:trinity-ud-10@thetrinitychurch.com
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260504
+SUMMARY:Trinity Church Commitment Weekend: Bring 2-Year Pledge and Initial Gift
+LOCATION:Trinity Church\, 8620 E McDonald Dr\, Scottsdale AZ 85250
+DESCRIPTION:Lives & Legacies Building Fund Campaign — Commitment Weekend #2.\nPastor Mark preaching or hosting at every service.\nBring your gift and pledge.\nSat: 2:00 / 4:00 PM\nSun: 8:30 / 10:10 / 11:50 AM\nTrinity Church | 8620 E McDonald Dr\, Scottsdale AZ 85250\nthetrinitychurch.com
+END:VEVENT
+BEGIN:VEVENT
+UID:trinity-ud-11@thetrinitychurch.com
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260511
+SUMMARY:Mother's Day at Trinity Church + Building Fund Victory Weekend
+LOCATION:Trinity Church\, 8620 E McDonald Dr\, Scottsdale AZ 85250
+DESCRIPTION:Lives & Legacies Building Fund Campaign — Victory Weekend.\nPastor Mark preaching or hosting at every service.\nPastor Mark announces total giving and pledges on Mother's Day.\nSat: 2:00 / 4:00 PM\nSun: 8:30 / 10:10 / 11:50 AM\nTrinity Church | 8620 E McDonald Dr\, Scottsdale AZ 85250\nthetrinitychurch.com
+END:VEVENT
+BEGIN:VEVENT
+UID:trinity-ud-12@thetrinitychurch.com
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260518
+SUMMARY:Trinity Church Lives & Legacies Campaign Grand Finale
+LOCATION:Trinity Church\, 8620 E McDonald Dr\, Scottsdale AZ 85250
+DESCRIPTION:Join us as we share the total amounts given toward the Lives & Legacies Building Fund Campaign!\nSat: 2:00 / 4:00 PM\nSun: 8:30 / 10:10 / 11:50 AM\nTrinity Church | 8620 E McDonald Dr\, Scottsdale AZ 85250\nthetrinitychurch.com
+END:VEVENT
+END:VCALENDAR
